@@ -95,7 +95,7 @@ List client key on salt master, type command:
 	</code>
 </pre>
 Add client key on salt master, type command:
-	pre>
+	<pre>
 	<code>
 	salt-key -A
 </code>
