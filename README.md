@@ -82,11 +82,11 @@ Open file /etc/salt/minion then modify paramenter below:
   	- id : hostname or ip of client, eg: node-01
   	</code>
   </pre>
-<p>
+
 Restart salt minion : 
 
 /etc/init.d/salt-minion restart
-
+<p>
 4. Add client on salt master:
 List client key on salt master, type command:
 <pre>
