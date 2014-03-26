@@ -1,12 +1,12 @@
 1. Config APT sources list and install Salt:
 The following line is needed in either /etc/apt/sources.list or a file in /etc/apt/sources.list.d
-	
+"""	
 	deb http://http.debian.net/debian wheezy main
 	deb-src http://http.debian.net/debian wheezy main
 
 	deb http://http.debian.net/debian wheezy-updates main
 	deb-src http://http.debian.net/debian wheezy-updates main
-
+"""
 
 Import the repository key:
 
